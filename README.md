@@ -15,7 +15,7 @@
 > Currently based out of Orlando, Florida.
 
 ### WHY:
-> Because I love to learn. In our day and age the world is a fascinating place, and I am always embracing my curiosity.
+> Because I love to work with revolutionary technologies and learn. Our world is a fascinating place and I am always embracing my curiosity.
 
 ### WHEN:
 > I started working with computers (as a hardware repair technician) and as a freelancing web developer about 4 years ago. I began because of my passion for these technologies but also because I needed to put myself through University.
