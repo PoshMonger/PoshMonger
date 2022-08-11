@@ -12,7 +12,7 @@
 
 ### WHERE:
 
-> Currently based out of Orlando, Florida
+> Currently based out of Orlando, Florida.
 
 ### WHY:
 > Because I love to learn. In our day and age the world is a fascinating place, and I am always embracing my curiosity.
